@@ -1,2 +1,2 @@
 # Atom-Probe-Tomgrophy
-Crystallographic Indexing of Atom Probe Datasets Using Machine-Learning Algorithms
+Machine-Learning Algorithms for Crystallographic Indexing of Atom Probe Tomography based "Big-Data" sets. 
